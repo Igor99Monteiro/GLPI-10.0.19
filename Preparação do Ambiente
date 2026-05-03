@@ -1,0 +1,20 @@
+O que preciso para usar o GLPI?
+
+No Servidor 
+- 1. Servidor de Preferência GNU/Linux
+- Serviço de hospedagem de sites {De Preferência o Apache HTTP Server}
+- PHP 5.4 ou Superior
+- Banco de dados Maria DB ou MySql 
+
+No Cliente 
+
+- Navegador web moderno com suporte a CSS e JavaScript
+
+Sobre o que eu usei no laborátorio
+- VirtualBox (Versão Mais atualizada) 
+- Debian 64x Bits Versão 12 ou 13 
+
+
+Instalação 
+- Ao Iniciar a VM Segue padrão a instalação do S.O do Debian
+- Idioma Português (Brasil); Hostname; Senha de Root
